@@ -1,0 +1,7 @@
+opencv-python
+cvzone
+pyttsx3
+numpy
+streamlit
+ultralytics
+pillow
